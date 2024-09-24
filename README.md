@@ -849,7 +849,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/03752a89-d0ef-41b3-8822-68c8e49c1505)
  cat exread1.sh
 ```bash
 #!/bin/bash
@@ -860,7 +860,7 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6c73b7bb-9d7f-44e7-b76d-97852d0574f6)
 $ ./exread1.sh 
  
 cat funcex.sh
@@ -896,6 +896,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/45d7b846-446c-4bad-afae-2b4fc7a16251)
 $ ./argshift.sh 1 2 3
  
  cat argshift1.sh
@@ -913,6 +914,8 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/768ff6f6-b95a-4d38-94f5-372a3f694cf8)
+
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh
@@ -927,8 +930,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
- 
+![image](https://github.com/user-attachments/assets/be4b29a4-eb85-4c57-a45f-44376f6fc2cd)
 cat > nc.awk
 ```bash
 BEGIN{}
@@ -958,7 +960,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+![image](https://github.com/user-attachments/assets/2d1026bd-7e0f-459d-ae34-38c6335074b5)
 cat > palindrome.sh
 ```bash
 #num=545
@@ -985,7 +987,6 @@ else
 fi
 ```
 ## OUTPUT 
-
-
+![image](https://github.com/user-attachments/assets/18f127bc-cf2a-47c2-acb3-c15003e3643d)
 # RESULT:
 The Commands are executed successfully.
