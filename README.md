@@ -456,9 +456,12 @@ echo "$val1 is less than $val2"
 fi
 ```
 ##OUTPUT
+
 ![368835164-cb392eee-d05c-4e56-be22-4dacba845f63](https://github.com/user-attachments/assets/d71a7f57-167d-446c-a431-de1b5e83fd47)
+
 chmod 755 strcomp.sh
-./strcomp.sh 
+./strcomp.sh
+
 ## OUTPUT
 ![368837004-10e14d5f-19cb-4e3d-b6cc-8382a4f2410f](https://github.com/user-attachments/assets/3aaaacb1-260a-4170-a2be-435f6b837832)
 
