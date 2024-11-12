@@ -580,7 +580,9 @@ fi
 $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
+
 ##OUTPUT
+
 ![368837360-be60af4d-43cd-442a-b48f-f2b9b7fc19e5](https://github.com/user-attachments/assets/5553f06b-a5c0-4d32-b105-00ac85653984)
 
 # check if a file
@@ -629,8 +631,10 @@ fi
 
 $ chmod 755 ifnested.sh
  
-$ ./ifnested.sh 
+$ ./ifnested.sh
+
 ##OUTPUT
+
 ![368837488-2d632d02-e148-496b-bf99-97292fd2e83d](https://github.com/user-attachments/assets/c28bb1cf-57df-4ac4-9640-5046335c89de)
 
 # looking for a possible value using elif
